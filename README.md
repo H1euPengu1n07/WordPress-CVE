@@ -10,7 +10,7 @@ You can refer to the reports below to learn more about each CVE.
 
 | CVE            | Bounty    | Priority    | Vulnerability                                            |  Report                                 |  Date                                                        |
 |----------------|-----------|-------------|----------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------|
-| CVE-2026-42743 | 89.7 AXP  | High        | Masteriyo LMS Lemon Squeezy Webhook Forgery              | [🔗](CVE-2026-42743/CVE-2026-42743.md)  |  28 May, 2026                                                |
+| CVE-2026-42743 | 89.7 AXP  | High        | Masteriyo LMS Lemon Squeezy Webhook Forgery              | [🔗]([CVE-2026-42743/CVE-2026-42743.md](https://patchstack.com/database/wordpress/plugin/learning-management-system/vulnerability/wordpress-masteriyo-lms-plugin-2-1-8-broken-authentication-vulnerability))  [📄](CVE-2026-42743/CVE-2026-42743.md)  |  28 May, 2026                                                |
 
 ## Achievement
 
